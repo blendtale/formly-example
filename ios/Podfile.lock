@@ -218,14 +218,14 @@ PODS:
     - React-cxxreact (= 0.61.5)
     - React-jsi (= 0.61.5)
     - ReactCommon/jscallinvoker (= 0.61.5)
-  - RNDeviceInfo (5.4.1):
+  - RNDeviceInfo (5.6.5):
     - React
   - RNImageCropPicker (0.26.2):
     - QBImagePickerController
     - React-Core
     - React-RCTImage
     - RSKImageCropper
-  - RSKImageCropper (2.2.3)
+  - RSKImageCropper (3.0.2)
   - Yoga (1.14.0)
 
 DEPENDENCIES:
@@ -261,7 +261,7 @@ DEPENDENCIES:
   - Yoga (from `../node_modules/react-native/ReactCommon/yoga`)
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  trunk:
     - boost-for-react-native
     - QBImagePickerController
     - RSKImageCropper
@@ -349,11 +349,11 @@ SPEC CHECKSUMS:
   React-RCTText: 9ccc88273e9a3aacff5094d2175a605efa854dbe
   React-RCTVibration: a49a1f42bf8f5acf1c3e297097517c6b3af377ad
   ReactCommon: 198c7c8d3591f975e5431bec1b0b3b581aa1c5dd
-  RNDeviceInfo: 54556486cd02538dbef727f39292d096abe0cf0e
+  RNDeviceInfo: c5f8f3a456adcbba405ace475254b08febc4c095
   RNImageCropPicker: 9d1a7eea4f8368fc479cbd2bf26459bd3c74d9aa
-  RSKImageCropper: a446db0e8444a036b34f3c43db01b2373baa4b2a
+  RSKImageCropper: 1ac71e9a82e3f41eea3eedfff8eacb0d3821c9ec
   Yoga: f2a7cd4280bfe2cca5a7aed98ba0eb3d1310f18b
 
 PODFILE CHECKSUM: 1b1c0e159fd865bed1e24cecf401382ebba52afd
 
-COCOAPODS: 1.6.1
+COCOAPODS: 1.10.1

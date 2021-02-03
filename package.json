@@ -14,7 +14,7 @@
     "react-native": "0.61.5",
     "react-native-device-info": "^5.4.1",
     "react-native-image-crop-picker": "^0.26.2",
-    "rn-formly": "^1.0.14"
+    "rn-formly": "^1.0.22"
   },
   "devDependencies": {
     "@babel/core": "^7.8.3",
